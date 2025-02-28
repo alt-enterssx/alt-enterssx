@@ -37,5 +37,12 @@
     </tr>
 </table>
 
+<h2>💼 Fav Project</h2>
+<p>
+    <a href="https://github.com/alt-enterssx/quoka_http">
+        <img src="https://img.shields.io/badge/QUOKAHTTP-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="QuokaHTTP">
+    </a>
+</p>
+
 </body>
 </html>
