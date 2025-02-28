@@ -33,7 +33,7 @@
     <tr>
         <td><a href="https://github.com/alt-enterssx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
         <td><a href="https://t.me/altenter_code"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a></td>
-        <td><a href="https://leetcode"><img src="https://img.shields.io/badge/LeetCode-F8C200?style=for-the-badge&logo=leetcode&logoColor=white&color=yellow" alt="LeetCode"></a></td>
+        <td><a href="https://leetcode.com/u/altenter/"><img src="https://img.shields.io/badge/LeetCode-F8C200?style=for-the-badge&logo=leetcode&logoColor=white&color=#B38306" alt="LeetCode"></a></td>
     </tr>
 </table>
 
