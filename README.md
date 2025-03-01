@@ -12,8 +12,8 @@ Hey Guys would like to tell you a little about myself. I am a 16 year old C++ pr
 
 ## 🔗 Links
 
-|---|---|---|
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) | ![LeetCode](https://img.shields.io/badge/LeetCode-F8C200?style=for-the-badge&logo=leetcode&logoColor=white&color=#B38306) |
+|---|---|---|
 
 ## 💼 Fav Project
 [![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)
