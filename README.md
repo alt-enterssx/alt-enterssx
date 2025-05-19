@@ -17,9 +17,10 @@ Hey guys! I would like to tell you a little about myself. I am a 16-year-old C++
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/altenter_code) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/altenter)
 
-## 💼 Favorite Project
+## 💼 Favorite Projects
 
-[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)
+[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)  
+[![THREAD_POOL](https://img.shields.io/badge/THREAD_POOL-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/thread_pool)
 
 ## 💸 Donate
 
