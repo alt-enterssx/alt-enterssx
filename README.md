@@ -20,6 +20,7 @@ Hey guys! I would like to tell you a little about myself. I am a 16-year-old C++
 ## 💼 Favorite Projects
 
 [![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)  
+<br>
 [![THREAD_POOL](https://img.shields.io/badge/THREAD_POOL-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/thread_pool)
 
 ## 💸 Donate
