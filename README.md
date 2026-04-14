@@ -1,27 +1,52 @@
-# Hello, World!
+# 👋 Hello, I'm a C++ Developer
 
-This README.md file is intended to familiarize you with me and my GitHub profile.
+Welcome to my GitHub profile!
 
-## 🛠 Skills
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-ff69b4?style=for-the-badge)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge&logo=http&logoColor=white)
-
+---
 
 ## 🚀 About Me
 
-Hey guys! I would like to tell you a little about myself. I am a 16-year-old C++ programmer who is just starting his journey. 😊
+I'm a C++ software developer focused on building low-level and system-level applications.
 
-## 🔗 Links
+I work with:
+- C++ development
+- Qt framework for GUI applications
+- Networking fundamentals and socket programming
+- Modern build systems like CMake
+- Version control with Git
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/altenter_code) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/altenter)
+I'm currently studying in college and constantly improving my skills in software engineering and system programming.
+
+---
+
+## 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=icloud&logoColor=white)
+
+---
 
 ## 💼 Favorite Projects
 
-[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http) [![THREAD_POOL](https://img.shields.io/badge/THREAD_POOL-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/thread_pool)
+[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)
+[![THREAD_POOL](https://img.shields.io/badge/THREAD_POOL-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/thread_pool)
+[![CONSOLE_LOGGER](https://img.shields.io/badge/CONSOLE_LOGGER-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/console_logger)
 
+---
 
-## 💸 Donate
+## 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/altenter_code)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/altenter)
+
+---
+
+## 💸 Support
 
 [![Donation Alerts](https://img.shields.io/badge/Donation%20Alerts-FE5000?style=for-the-badge&logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/altenter)
+
+---
