@@ -31,7 +31,7 @@ I'm currently studying in college and constantly improving my skills in software
 
 ## 💼 Favorite Projects
 
-[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka_http)
+[![QUOKAHTTP](https://img.shields.io/badge/QUOKAHTTP-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/quoka-http)
 [![THREAD_POOL](https://img.shields.io/badge/THREAD_POOL-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/thread_pool)
 [![CONSOLE_LOGGER](https://img.shields.io/badge/CONSOLE_LOGGER-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alt-enterssx/console_logger)
 
